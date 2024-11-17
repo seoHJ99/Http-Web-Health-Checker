@@ -24,13 +24,13 @@ public JsonResult healthChecker()
     {
         public Object runWhenFail()
         {
-            Console.WriteLine($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Server status: OK");
+            Console.WriteLine($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Server status: ERROR - Unexpected response");
             return null;
         }
 
         public Object runWhenSuccess()
         {
-            Console.WriteLine($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Server status: ERROR - Unexpected response");
+            Console.WriteLine($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Server status: OK");
             return null;
         }
     }
@@ -54,6 +54,9 @@ public JsonResult healthChecker()
     }
 ```
 
-4. Check It Work
-![image](https://github.com/user-attachments/assets/193f710d-6104-4fa7-981f-4c68979db1e5)
+4. Check It Work<br/>
+   -successful
+![image](https://github.com/user-attachments/assets/43c3651c-735f-4767-8ff9-3e04d339cd76)
 
+   -failed
+![image](https://github.com/user-attachments/assets/47c54dfe-e9c3-46a6-ac87-bafd07bd81f0)
