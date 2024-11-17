@@ -47,7 +47,8 @@ public JsonResult healthChecker()
             HttpStatusChecker statusChecker = new HttpStatusChecker(TEST_URL, HTTP_REQUEST_INTERVAL);
             statusChecker.setMethodRepository(new CallbackMethod());
             statusChecker.keepTryWhenFail(false);
-            statusChecker.setSuccessResponse("{\"status\":\"200\"}"); //fail
+            statusChecker.setSuccessResponse("{\"status\":\"200\"}"); // success
+            // statusChecker.setSuccessResponse("{\"status\":\"400\"}"); // fail
 
             await statusChecker.run();
         }
