@@ -9,7 +9,7 @@ To run certain Function when Http Resonse is successful or failed, you must crea
 
 1. Create a URL for health check on the server <br/>
 
-```
+```C#
 [HttpGet]
 public JsonResult healthChecker()
 {
