@@ -19,7 +19,7 @@ public JsonResult healthChecker()
 
 2.  Class that inherit MethodRepository Interface and Override Function
 
-```
+```C#
     class CallbackMethod : MethodRepository
     {
         public Object runWhenFail()
@@ -37,7 +37,7 @@ public JsonResult healthChecker()
 ```
 
 3. Create an Instance and Set Config and run
-```
+```C#
     class RunMain
     {
         const string TEST_URL = "";
