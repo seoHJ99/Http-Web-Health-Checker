@@ -1,0 +1,14 @@
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\bin\Debug\net8.0\CmdTest.exe
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\bin\Debug\net8.0\CmdTest.deps.json
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\bin\Debug\net8.0\CmdTest.runtimeconfig.json
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\bin\Debug\net8.0\CmdTest.dll
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\bin\Debug\net8.0\CmdTest.pdb
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\CmdTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\CmdTest.AssemblyInfoInputs.cache
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\CmdTest.AssemblyInfo.cs
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\CmdTest.csproj.CoreCompileInputs.cache
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\CmdTest.dll
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\refint\CmdTest.dll
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\CmdTest.pdb
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\CmdTest.genruntimeconfig.cache
+C:\Users\Hojun\Desktop\CmdTest\CmdTest\obj\Debug\net8.0\ref\CmdTest.dll
